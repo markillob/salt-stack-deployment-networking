@@ -1,0 +1,4 @@
+pillar_roots:
+ base:
+ - /etc/salt/pillar
+ #sets the environment and the directories used to hold the pillar SLS data (salt stack format)
